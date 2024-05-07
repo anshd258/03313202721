@@ -1,11 +1,11 @@
-export const Companies = Object.freeze({ 
+export const Companies = { 
    AMZ:"AMZ",
    SNP:"ANP",
    FLP:"FLP",
    MYN:"MYN",
    AZO:"AZO"
-}); 
-export const Catogaries = Object.freeze({ 
+}; 
+export const Catogaries = { 
     PHONE:"Phone",
     COMPUTER:"Computer",
     LAPTOP:"Laptop",
@@ -22,4 +22,4 @@ export const Catogaries = Object.freeze({
     HEADSET:"Headset",
     PC:"Pc"
 
- }); 
+}; 
