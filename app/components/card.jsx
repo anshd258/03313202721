@@ -1,5 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
+
 function ProductCard() {
     return (
         <div className='flex w-80 h-64 flex-col px-4 py-3 justify-center items-center bg-white rounded-lg my-2 mx-3'>
